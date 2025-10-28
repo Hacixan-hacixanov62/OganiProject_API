@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{73B0CF93-3A8E-4F15-BDA7-530964D4A556}|Repository\\Repository.csproj|d:\\api (pb-202) _ task\\oganiproject_api\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73B0CF93-3A8E-4F15-BDA7-530964D4A556}|Repository\\Repository.csproj|solutionrelative:repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B57216D-9484-4489-AE7B-45C9550AFE02}|OganiProject_API\\OganiProject_API.csproj|d:\\api (pb-202) _ task\\oganiproject_api\\oganiproject_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B57216D-9484-4489-AE7B-45C9550AFE02}|OganiProject_API\\OganiProject_API.csproj|solutionrelative:oganiproject_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,10 +32,22 @@
               "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Repository\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Repository\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T08:34:30.521Z",
+              "WhenOpened": "2025-10-28T08:10:06.885Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\OganiProject_API\\OganiProject_API\\Program.cs",
+              "RelativeDocumentMoniker": "OganiProject_API\\Program.cs",
+              "ToolTip": "D:\\API (Pb-202) _ Task\\OganiProject_API\\OganiProject_API\\Program.cs",
+              "RelativeToolTip": "OganiProject_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:38:40.687Z"
             }
           ]
         }

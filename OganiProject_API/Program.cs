@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Repository.Data;
+using Repository;
+using Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,7 +16,10 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-var app = builder.Build();
+builder.Services.AddRepositoryLayer();
+builder.Services.AddServiceLayer();
+
+var app = builder.Build(); 
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
