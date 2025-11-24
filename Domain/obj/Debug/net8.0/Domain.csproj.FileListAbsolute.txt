@@ -10,3 +10,4 @@ D:\API (Pb-202) _ Task\OganiProject_API\Domain\obj\Debug\net8.0\Domain.dll
 D:\API (Pb-202) _ Task\OganiProject_API\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\API (Pb-202) _ Task\OganiProject_API\Domain\obj\Debug\net8.0\Domain.pdb
 D:\API (Pb-202) _ Task\OganiProject_API\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\API (Pb-202) _ Task\OganiProject_API\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache

@@ -7,7 +7,7 @@ using Service.Services.IService;
 namespace OganiProject_API.Controllers.Admin
 {
 
-    public class CategoryController : ControllerBase
+    public class CategoryController : BaseController
     {
         private readonly ICategoryService _categoryService;
 

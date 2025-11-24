@@ -1,7 +1,9 @@
 using Microsoft.EntityFrameworkCore;
-using Repository.Data;
+using OganiProject_API.Middlewares;
 using Repository;
+using Repository.Data;
 using Service;
+using Service.Helpers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +17,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddAutoMapper(opt =>
+{
+    opt.AddProfile(new MappingProfile());
+});
+
+builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
 
 builder.Services.AddRepositoryLayer();
 builder.Services.AddServiceLayer();

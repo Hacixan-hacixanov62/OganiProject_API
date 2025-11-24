@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\API (Pb-202) _ Task\\OganiProject_API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\API (Pb-202) _ Task\\OganiProject_API\\Repository\\Migrations\\20251124194832_ProductTableMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\Migrations\\20251124194832_ProductTableMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73B0CF93-3A8E-4F15-BDA7-530964D4A556}|Repository\\Repository.csproj|d:\\api (pb-202) _ task\\oganiproject_api\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73B0CF93-3A8E-4F15-BDA7-530964D4A556}|Repository\\Repository.csproj|solutionrelative:repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B57216D-9484-4489-AE7B-45C9550AFE02}|OganiProject_API\\OganiProject_API.csproj|d:\\api (pb-202) _ task\\oganiproject_api\\oganiproject_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B57216D-9484-4489-AE7B-45C9550AFE02}|OganiProject_API\\OganiProject_API.csproj|solutionrelative:oganiproject_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1537F23A-249C-4735-9F8B-21E9D4ADA927}|Domain\\Domain.csproj|d:\\api (pb-202) _ task\\oganiproject_api\\domain\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1537F23A-249C-4735-9F8B-21E9D4ADA927}|Domain\\Domain.csproj|solutionrelative:domain\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1537F23A-249C-4735-9F8B-21E9D4ADA927}|Domain\\Domain.csproj|d:\\api (pb-202) _ task\\oganiproject_api\\domain\\entites\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1537F23A-249C-4735-9F8B-21E9D4ADA927}|Domain\\Domain.csproj|solutionrelative:domain\\entites\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B57216D-9484-4489-AE7B-45C9550AFE02}|OganiProject_API\\OganiProject_API.csproj|d:\\api (pb-202) _ task\\oganiproject_api\\oganiproject_api\\controllers\\admin\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B57216D-9484-4489-AE7B-45C9550AFE02}|OganiProject_API\\OganiProject_API.csproj|solutionrelative:oganiproject_api\\controllers\\admin\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CC0FE6-C150-45C4-B7E6-D3C68AAF02E2}|Service\\Service.csproj|d:\\api (pb-202) _ task\\oganiproject_api\\service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CC0FE6-C150-45C4-B7E6-D3C68AAF02E2}|Service\\Service.csproj|solutionrelative:service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CC0FE6-C150-45C4-B7E6-D3C68AAF02E2}|Service\\Service.csproj|d:\\api (pb-202) _ task\\oganiproject_api\\service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CC0FE6-C150-45C4-B7E6-D3C68AAF02E2}|Service\\Service.csproj|solutionrelative:service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251124194832_ProductTableMigration.cs",
+              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Repository\\Migrations\\20251124194832_ProductTableMigration.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20251124194832_ProductTableMigration.cs",
+              "ToolTip": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Repository\\Migrations\\20251124194832_ProductTableMigration.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20251124194832_ProductTableMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:48:33.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Repository\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Repository\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:46:16.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Domain\\Entites\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Domain\\Entites\\ProductImage.cs",
+              "ToolTip": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Domain\\Entites\\ProductImage.cs",
+              "RelativeToolTip": "Domain\\Entites\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:46:05.63Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Repository\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Repository\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Repository\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Domain\\Entites\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entites\\Product.cs",
+              "ToolTip": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Domain\\Entites\\Product.cs",
+              "RelativeToolTip": "Domain\\Entites\\Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T08:10:06.885Z",
+              "WhenOpened": "2025-11-24T19:27:44.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\OganiProject_API\\OganiProject_API\\Program.cs",
-              "RelativeDocumentMoniker": "OganiProject_API\\Program.cs",
-              "ToolTip": "D:\\API (Pb-202) _ Task\\OganiProject_API\\OganiProject_API\\Program.cs",
-              "RelativeToolTip": "OganiProject_API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\OganiProject_API\\OganiProject_API\\Controllers\\Admin\\CategoryController.cs",
+              "RelativeDocumentMoniker": "OganiProject_API\\Controllers\\Admin\\CategoryController.cs",
+              "ToolTip": "D:\\API (Pb-202) _ Task\\OganiProject_API\\OganiProject_API\\Controllers\\Admin\\CategoryController.cs",
+              "RelativeToolTip": "OganiProject_API\\Controllers\\Admin\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T07:38:40.687Z"
+              "WhenOpened": "2025-11-24T19:20:22.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Service\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\MappingProfile.cs",
+              "ToolTip": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Service\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Helpers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:01:35.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Service\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\API (Pb-202) _ Task\\OganiProject_API\\Service\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Service\\Services\\CategoryService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAvwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:16:32.799Z",
+              "EditorCaption": ""
             }
           ]
         }
